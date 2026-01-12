@@ -98,4 +98,4 @@ OTHER TOOLS
 Copyright and license
 
 All my code released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) unless any other conditions explicitly specified.  
-Every doc I have made is released under [Creative Commons (by)](https://creativecommons.org/licenses/by/3.0/) unless any other conditions explicitly sfecified.
+Every doc I have made is released under [Creative Commons (by)](https://creativecommons.org/licenses/by/3.0/) unless any other conditions explicitly specified.
