@@ -20,7 +20,7 @@
 
 # <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
 
-<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus and music shows...  and once and again I have rebuilt myself</h5>  
+<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus and music shows...  and once and again I have rebuilt myself from zero</h5>  
 
 
 
