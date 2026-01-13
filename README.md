@@ -16,15 +16,15 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
-
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)  
 
 # <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
+
 <h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus shows...  and once again rebuilt myself</h5>  
 
 
 
-#
+
 
 <table>
 <tr>
@@ -58,7 +58,7 @@
 </tr>
 </table>
   
-#
+
 FULLSTACK
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white)
@@ -70,7 +70,7 @@ FULLSTACK
 ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=flat&logo=joomla&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white)
 ![](https://img.shields.io/badge/Wix-blue?style=flat&logo=wix)
-#
+
 CYBERSECURITY
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/Parrot%20Security-grey?style=flat&logo=parrotsecurity)
@@ -89,8 +89,8 @@ CYBERSECURITY
 ![](https://img.shields.io/badge/Netdata-blue?style=flat)
 ![](https://img.shields.io/badge/NFTables-blue?style=flat)
 ![](https://img.shields.io/badge/IPTables-blue?style=flat)
-#
-OSs GUIs & HYPERVISORs
+
+OSs, GUIs & HYPERVISORs
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=flat&logo=gnu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
@@ -107,7 +107,6 @@ OSs GUIs & HYPERVISORs
 ![](https://img.shields.io/badge/QEMU-grey?style=flat&logo=qemu)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
 
-#
 OTHER TOOLS
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)
@@ -117,6 +116,7 @@ OTHER TOOLS
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
 ![](https://img.shields.io/badge/kdenlive-grey?style=flat&logo=kdenlive)
+
 #
 Copyright and license
 
