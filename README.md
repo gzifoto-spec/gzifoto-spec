@@ -84,18 +84,31 @@ CYBERSECURITY
 ![](https://img.shields.io/badge/NFTables-blue?style=flat)
 ![](https://img.shields.io/badge/IPTables-blue?style=flat)
 
-OSs, GUIs & HYPERVISORs
+SYSADMIN
+![](https://img.shields.io/badge/gparted-blue?style=flat)
+![](https://img.shields.io/badge/bash-blue?style=flat)
+![](https://img.shields.io/badge/xterm-blue?style=flat)
+![](https://img.shields.io/badge/journalctl-blue?style=flat)
+![](https://img.shields.io/badge/systemctl-blue?style=flat)
+![](https://img.shields.io/badge/midnight%20commander-blue?style=flat)
+![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)
+![gnome](https://img.shields.io/badge/gnome-blue?style=flat&logo=gnome)
+![KDE](https://img.shields.io/badge/KDE-blue?style=flat&logo=kde)
+![](https://img.shields.io/badge/packetTracer-blue?style=flat)
+![](https://img.shields.io/badge/Snort-blue?style=flat&logo=snort)
+![](https://img.shields.io/badge/btop-blue?style=flat)
+![](https://img.shields.io/badge/rsync-blue?style=flat)
+
+OSs & HYPERVISORs
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=flat&logo=gnu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)
 ![Suse](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=SUSE&logoColor=white)
 ![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=flat&logo=slackware&logoColor=white)
+![](https://img.shields.io/badge/knoppix-blue?style=flat)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
 ![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat&logo=kubuntu&logoColor=white)
-![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)
-![gnome](https://img.shields.io/badge/gnome-blue?style=flat&logo=gnome)
-![KDE](https://img.shields.io/badge/KDE-blue?style=flat&logo=kde)
 ![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white)
 ![](https://img.shields.io/badge/VMware-white?style=flat&logo=vmware)
 ![](https://img.shields.io/badge/QEMU-grey?style=flat&logo=qemu)
@@ -109,6 +122,7 @@ OTHER TOOLS
 ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
+![](https://img.shields.io/badge/VLC-grey?style=flat&logo=vlcmediaplayer)
 ![](https://img.shields.io/badge/kdenlive-grey?style=flat&logo=kdenlive)
 
 <table>
