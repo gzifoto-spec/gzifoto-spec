@@ -111,8 +111,26 @@ OTHER TOOLS
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
 ![](https://img.shields.io/badge/kdenlive-grey?style=flat&logo=kdenlive)
 
-#
-Copyright and license
+<table>
+<tr>
+<th align="left" width="80%">
+<p> 
 
-All my code released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) unless any other conditions explicitly specified.  
-Every doc I have made is released under [Creative Commons (by)](https://creativecommons.org/licenses/by/3.0/) unless any other conditions explicitly specified.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gzifoto-spec&theme=dark) 
+</p>
+</th>
+<th align="right" width="20%">
+<p> 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gzifoto-spec&theme=dark)  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gzifoto-spec&theme=dark)
+</p>
+</th>
+</tr>
+</table>
+
+
+**Copyright and license:**
+
+All my code released under the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) unless any other conditions were explicitly specified.  
+Every doc I have made is released under [Creative Commons (by)](https://creativecommons.org/licenses/by/3.0/) unless any other conditions were explicitly specified.
