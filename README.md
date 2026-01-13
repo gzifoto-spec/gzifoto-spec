@@ -26,7 +26,7 @@
 
 <table>
 <tr>
-<th align="left" width="75%">
+<th align="left" width="80%">
 <p> 
 
 - 🔭 Currently involved in the **![Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **![Inditex](https://www.inditex.com)**
@@ -40,7 +40,7 @@
 
 </p>
 </th>
-<th align="right" width="25%">
+<th align="right" width="20%">
 <p> 
 
 ![bone](https://github.com/user-attachments/assets/1a76536c-70f6-4440-885b-938f1fee9bea)  
