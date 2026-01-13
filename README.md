@@ -43,7 +43,8 @@
 <th align="right" width="20%">
 <p> 
 
-![bone](https://github.com/user-attachments/assets/1a76536c-70f6-4440-885b-938f1fee9bea)  
+![FromBoneToSatellite_MatchCut_2001ASpaceOdyssey_HD-ezgif com-optimize](https://github.com/user-attachments/assets/a956cc88-f414-4564-97b1-64820c5b6073)
+
 
 ![code](https://github.com/user-attachments/assets/c4748646-030f-4d29-9a79-b8ea7ef50404)
 
