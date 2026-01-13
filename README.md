@@ -20,9 +20,7 @@
 
 # <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
 
-<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus shows...  and once again rebuilt myself</h5>  
-
-
+<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus and music shows...  and once and again I have rebuilt myself</h5>  
 
 
 
@@ -31,7 +29,6 @@
 <th align="left">
 <img width="600" height="1">
 <p> 
-<small>
 
 - 🔭 Currently involved in the **![Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **![Inditex](https://www.inditex.com)**
 - :scroll: Degrees in Web development, SysAdmin and CyberSecurity
@@ -42,22 +39,18 @@
 - Once I am done with the Bootcamp 💬 we can talk about **React, Node, CI/CD**  
 - ⚡ Fun fact: Finally installed a second disc with windows on it. Enjoying such plaything.
 
-</small>
 </p>
 </th>
 <th align="right">
 <img width="300" height="1">
 <p> 
-<small>
 
 ![bone](https://github.com/user-attachments/assets/1a76536c-70f6-4440-885b-938f1fee9bea)
 
-</small>
 </p>
 </th>
 </tr>
 </table>
-  
 
 FULLSTACK
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
