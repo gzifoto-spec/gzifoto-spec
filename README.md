@@ -6,26 +6,8 @@
 <a href="https://www.linkedin.com/in/javipi%C3%B1eiro/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://discord.com/users/509673994715398164">![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)</a>
 <a href="https://github.com/gzifoto-spec">![Github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)</a>
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/gzifoto-spec/?tab=repositories)
-
-
-# <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
-<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus shows...  and once again rebuilt myself</h5>  
-
-
-#
-- 🔭 Currently involved in the **![Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **![Inditex](https://www.inditex.com)**
-- :scroll: Degrees in Web development, SysAdmin and CyberSecurity
-- :penguin: Running GNU Linux since 2000
-- 💬 Can handle HTML, CSS, javascript, PHP or SQL
-- 💬 Continuous learning on Bash, Ansi C & java
-- 💬 Ask me about bastioning, pentesting, auditing or 4.0 Industrial Cybersecurity
-- Once I am done with the Bootcamp 💬 we can talk about **React, Node, CI/CD**  
-- ⚡ Fun fact: Finally installed a second disc with windows on it. Enjoying such plaything.  
-
-
-#
-LANGUAGES
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/gzifoto-spec/?tab=repositories)  
+  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -35,6 +17,47 @@ LANGUAGES
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
+
+
+# <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
+<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus shows...  and once again rebuilt myself</h5>  
+
+
+
+#
+
+<table>
+<tr>
+<th align="left">
+<img width="600" height="1">
+<p> 
+<small>
+
+- 🔭 Currently involved in the **![Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **![Inditex](https://www.inditex.com)**
+- :scroll: Degrees in Web development, SysAdmin and CyberSecurity
+- :penguin: Running GNU Linux since 2000
+- 💬 Can handle HTML, CSS, javascript, PHP or SQL
+- 💬 Continuous learning on Bash, Ansi C & java
+- 💬 Ask me about bastioning, pentesting, auditing or 4.0 Industrial Cybersecurity
+- Once I am done with the Bootcamp 💬 we can talk about **React, Node, CI/CD**  
+- ⚡ Fun fact: Finally installed a second disc with windows on it. Enjoying such plaything.
+
+</small>
+</p>
+</th>
+<th align="right">
+<img width="300" height="1">
+<p> 
+<small>
+
+![bone](https://github.com/user-attachments/assets/1a76536c-70f6-4440-885b-938f1fee9bea)
+
+</small>
+</p>
+</th>
+</tr>
+</table>
+  
 #
 FULLSTACK
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
