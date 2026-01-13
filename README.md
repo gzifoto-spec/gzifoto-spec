@@ -26,8 +26,7 @@
 
 <table>
 <tr>
-<th align="left">
-<img width="600" height="1">
+<th align="left" width="75%">
 <p> 
 
 - 🔭 Currently involved in the **![Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **![Inditex](https://www.inditex.com)**
@@ -41,11 +40,12 @@
 
 </p>
 </th>
-<th align="right">
-<img width="300" height="1">
+<th align="right" width="25%">
 <p> 
 
-![bone](https://github.com/user-attachments/assets/1a76536c-70f6-4440-885b-938f1fee9bea)
+![bone](https://github.com/user-attachments/assets/1a76536c-70f6-4440-885b-938f1fee9bea)  
+
+![code](https://github.com/user-attachments/assets/c4748646-030f-4d29-9a79-b8ea7ef50404)
 
 </p>
 </th>
