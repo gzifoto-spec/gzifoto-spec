@@ -127,7 +127,16 @@ OTHER TOOLS
 
 <table>
 <tr>
-<th align="left" width="80%">
+
+<th align="left" width="20%">
+<p> 
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gzifoto-spec&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gzifoto-spec&theme=dark)
+</p>
+</th>
+  
+<th align="left" width="60%">
 <p> 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gzifoto-spec&theme=dark) 
