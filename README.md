@@ -18,6 +18,8 @@
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)  
 
+
+
 # <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
 
 <h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus and music shows...  and once and again I have rebuilt myself from zero. "Quen dixo medo?" (someone have said fear?)</h5>  
@@ -29,7 +31,7 @@
 <th align="left" width="80%">
 <p> 
 
-- 🔭 Currently involved in the **![Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **![Inditex](https://www.inditex.com)**
+- 🔭 Currently involved in the **[Factory F5](https://factoriaf5.org)** FullStack Bootcamp powered by **[Inditex](https://www.inditex.com)**
 - :scroll: Degrees in Web development, SysAdmin and CyberSecurity
 - :penguin: Running GNU Linux since 2000
 - 💬 Can handle HTML, CSS, javascript, PHP or SQL
@@ -99,31 +101,6 @@ SYSADMIN
 ![](https://img.shields.io/badge/btop-blue?style=flat)
 ![](https://img.shields.io/badge/rsync-blue?style=flat)
 
-OSs & HYPERVISORs
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=flat&logo=gnu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
-![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)
-![Suse](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=SUSE&logoColor=white)
-![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=flat&logo=slackware&logoColor=white)
-![](https://img.shields.io/badge/knoppix-blue?style=flat)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat&logo=kubuntu&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white)
-![](https://img.shields.io/badge/VMware-white?style=flat&logo=vmware)
-![](https://img.shields.io/badge/QEMU-grey?style=flat&logo=qemu)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
-
-OTHER TOOLS
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
-![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
-![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
-![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
-![](https://img.shields.io/badge/VLC-grey?style=flat&logo=vlcmediaplayer)
-![](https://img.shields.io/badge/kdenlive-grey?style=flat&logo=kdenlive)
 
 <table>
 <tr>
@@ -152,6 +129,33 @@ OTHER TOOLS
 </tr>
 </table>
 
+OSs & HYPERVISORs
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![gnu](https://img.shields.io/badge/gnu-%23A42E2B.svg?style=flat&logo=gnu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)
+![Suse](https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=SUSE&logoColor=white)
+![Slackware](https://img.shields.io/badge/-Slackware-%231357BD?style=flat&logo=slackware&logoColor=white)
+![](https://img.shields.io/badge/knoppix-blue?style=flat)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![Kubuntu](https://img.shields.io/badge/-KUbuntu-%230079C1?style=flat&logo=kubuntu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/virtualbox-%23183A61.svg?style=flat&logo=virtualbox&logoColor=white)
+![](https://img.shields.io/badge/VMware-white?style=flat&logo=vmware)
+![](https://img.shields.io/badge/QEMU-grey?style=flat&logo=qemu)
+![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat&logo=Windows%2011&logoColor=white)
+
+OTHER TOOLS
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=flat&logo=LibreOffice&logoColor=white)
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13)
+![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat&logo=audacity&logoColor=white)
+![](https://img.shields.io/badge/VLC-grey?style=flat&logo=vlcmediaplayer)
+![](https://img.shields.io/badge/kdenlive-grey?style=flat&logo=kdenlive)
+
+***
 
 **Copyright and license:**
 
