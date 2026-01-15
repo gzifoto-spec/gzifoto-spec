@@ -28,6 +28,17 @@
 
 <table>
 <tr>
+
+<th align="right" width="20%">
+<p> 
+
+![FromBoneToSatellite_MatchCut_2001ASpaceOdyssey_HD-ezgif com-optimize](https://github.com/user-attachments/assets/a956cc88-f414-4564-97b1-64820c5b6073)
+
+
+![code](https://github.com/user-attachments/assets/c4748646-030f-4d29-9a79-b8ea7ef50404)
+
+</p>
+</th>
 <th align="left" width="80%">
 <p> 
 
@@ -39,16 +50,6 @@
 - 💬 Ask me about bastioning, pentesting, auditing or 4.0 Industrial Cybersecurity
 - Once I am done with the Bootcamp 💬 we can talk about **React, Node, CI/CD**  
 - ⚡ Fun fact: Finally installed a second disc with windows on it. Enjoying such plaything.
-
-</p>
-</th>
-<th align="right" width="20%">
-<p> 
-
-![FromBoneToSatellite_MatchCut_2001ASpaceOdyssey_HD-ezgif com-optimize](https://github.com/user-attachments/assets/a956cc88-f414-4564-97b1-64820c5b6073)
-
-
-![code](https://github.com/user-attachments/assets/c4748646-030f-4d29-9a79-b8ea7ef50404)
 
 </p>
 </th>
