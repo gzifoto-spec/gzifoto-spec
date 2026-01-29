@@ -1,5 +1,4 @@
-<img width="850" height="159" alt="header850b" src="https://github.com/user-attachments/assets/6515a841-3511-4c2e-9d83-1674fec63150"/>
-
+![header850b](https://github.com/user-attachments/assets/6515a841-3511-4c2e-9d83-1674fec63150)
 
 <a href="https://tinyurl.com/3f2xdwrc"> <img width="60" alt="gmt" src="https://github.com/user-attachments/assets/37a97ad0-03d4-49f4-bbb1-f59223a482fb"/></a>
 <a href="mailto:gzifoto@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)</a>
