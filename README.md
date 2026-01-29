@@ -1,6 +1,6 @@
-![header850b](https://github.com/user-attachments/assets/6515a841-3511-4c2e-9d83-1674fec63150)
+![Header](assets/header850b.png)  
 
-<a href="https://tinyurl.com/3f2xdwrc"> <img width="60" alt="gmt" src="https://github.com/user-attachments/assets/37a97ad0-03d4-49f4-bbb1-f59223a482fb"/></a>
+[![GMT](assets/gmt20.png)](https://tinyurl.com/3f2xdwrc)
 <a href="mailto:gzifoto@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/javipi%C3%B1eiro/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)</a>
 <a href="https://discord.com/users/509673994715398164">![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)</a>
