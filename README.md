@@ -19,10 +19,9 @@
 
 
 
-# <h3 align="center">Hi 👋, I'm Xavier ![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)</h3>  
-
-<h5 align="center">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus and music shows...  and once and again I have rebuilt myself from zero. "Quen dixo medo?" (someone have said fear?)</h5>  
-
+# <h3 align="center">Hi 👋, I'm Xavier</h3>
+![Visitor Badge](https://komarev.com/ghpvc/?username=xavipineiro)
+<h5 align="left">I've served meals, poured wine, built scaffolds, blent tobacco, sold books, mixed lights and sound for circus and music shows...  and once and again I have rebuilt myself from zero. "Quen dixo medo?" (someone have said fear?)</h5>
 
 
 <table>
